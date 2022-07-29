@@ -1,2 +1,2 @@
-# MyPractice
-my daily practice codes
+# My Java Practice
+my daily Java practice codes
